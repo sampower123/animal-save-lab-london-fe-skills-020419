@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
+ 
+@media (max-width) {
+  #ostrich {
+    
+  }
+}
